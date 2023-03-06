@@ -1,5 +1,4 @@
 
 vscode:
   extensions:
-    - franneck94.c-cpp-runner
-    - vadimcn.vscode-lldb
+    - formulahendry.code-runner
